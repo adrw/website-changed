@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  test:
     working_directory: ~/website-changed
     docker:
       - image: circleci/node:10.15
@@ -20,3 +20,19 @@ jobs:
             - "node_modules"
 
       - run: npm run-script test
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - test
+  continuous-testing:
+    triggers:
+      - schedule:
+          cron: "0 * * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - test
