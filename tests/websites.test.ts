@@ -1,4 +1,4 @@
-import { websites } from "../../src"
+import { websites } from "../src"
 import axios from "axios"
 
 websites.map(url => {
