@@ -1,5 +1,5 @@
 export const websites = [
-  "https://time.is",
+  // "https://time.is",
   "http://www.blazeproperties.ca/index.php/vacancies",
   "http://www.blazeproperties.ca/index.php/properties/abercrombie-place",
   "http://www.blazeproperties.ca/index.php/properties/belmont-village",
