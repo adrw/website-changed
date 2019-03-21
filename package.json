@@ -1,0 +1,69 @@
+{
+  "name": "website-changed",
+  "version": "0.0.1",
+  "description": "Use periodic CI tests to check if websites (see: rental vacancy listings...) have changed",
+  "licence": "GPL-3.0",
+  "main": "index.js",
+  "repository": "git@github.com:adrw/website-changed.git",
+  "author": "adrw Andrew Alexander <account+npmjs@adrw.ch>",
+  "bin": {
+    "jheadx": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">= 0.2.0",
+    "yarn": "YARN NO LONGER USED - use npm instead."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@misk/tslint": "^0.1.4",
+    "@types/jest": "^24.0.11",
+    "axios": "^0.18.0",
+    "jest": "^24.1.0",
+    "jest-serializer-html": "^6.0.0",
+    "tslib": "^1.9.3",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3333"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "start": "node dist/index.js",
+    "watch": "tsc -w",
+    "build": "tsc",
+    "test": "jest",
+    "lint": "prettier --write --config package.json \".{/src/**/,/}*.{md,css,scss,less,json,js,jsx,ts,tsx}\"",
+    "prepare": "npm run-script build && npm run-script test",
+    "smooth-release": "smooth-release",
+    "precommit": "npm run-script lint"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "printWidth": 80,
+    "semi": false,
+    "singleQuote": false,
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "useTabs": false
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "snapshotSerializers": [
+      "jest-serializer-html"
+    ],
+    "transform": {
+      "^.+\\.tsx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(tsx?|jsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "json",
+      "jsx"
+    ]
+  }
+}
