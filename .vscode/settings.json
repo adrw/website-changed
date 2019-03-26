@@ -20,7 +20,7 @@
   "terminal.integrated.shell.osx": "/bin/zsh",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "workbench.colorTheme": "Blueprint",
   "workbench.startupEditor": "newUntitledFile"
 }
