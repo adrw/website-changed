@@ -27,6 +27,8 @@ workflows:
     jobs:
       - test
   continuous-testing:
+    jobs:
+      - test
     triggers:
       - schedule:
           cron: "0 * * * *"
@@ -34,5 +36,3 @@ workflows:
             branches:
               only:
                 - master
-    jobs:
-      - test
