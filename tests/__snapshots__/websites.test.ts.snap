@@ -12,20 +12,6 @@ Array [
   "Apartment",
   "$750",
   "1 space",
-  "233 Lawrence Avenue, Kitchener - Lorry Lane",
-  "get notified about vacancies",
-  "Available:",
-  "Unit:",
-  "Rent:",
-  "Parking:",
-  "2019-05-01",
-  "Flat",
-  "$1036",
-  "1 space",
-  "2019-05-01",
-  "Loft",
-  "$1013",
-  "1 space",
   "43 Union Street East, Waterloo - Union Lane",
   "get notified about vacancies",
   "Available:",
@@ -35,16 +21,6 @@ Array [
   "2019-05-01",
   "Loft",
   "$1338",
-  "1 space",
-  "445 University Avenue East, Waterloo - Abercrombie Place",
-  "get notified about vacancies",
-  "Available:",
-  "Unit:",
-  "Rent:",
-  "Parking:",
-  "2019-05-01",
-  "Loft",
-  "$1271",
   "1 space",
   "257 Frederick Street, Kitchener - Tivoli",
   "get notified about vacancies",
@@ -172,7 +148,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/abercrombie
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -1007,35 +983,8 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/abercrombie
                   <H2>
                     Vacancies
                   </H2>
-                  <div class="vacancy">
-                    <ul class="vacancy_heading">
-                      <li>
-                        Available:
-                      </li>
-                      <li>
-                        Unit:
-                      </li>
-                      <li>
-                        Rent:
-                      </li>
-                      <li>
-                        Parking:
-                      </li>
-                    </ul>
-                    <ul class="horz_top">
-                      <li>
-                        2019-05-01
-                      </li>
-                      <li>
-                        Loft
-                      </li>
-                      <li>
-                        $1271
-                      </li>
-                      <li>
-                        1 space
-                      </li>
-                    </ul>
+                  <div class="vacancy no">
+                    Sorry, no vacancy.
                   </div>
                   <p>
                     <a style="margin:5px 0px 0px 6px; color:#725E5E; font-weight: bold;"
@@ -1323,7 +1272,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/belmont-vil
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -2082,7 +2031,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/camelot 1`]
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -3177,7 +3126,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/cripple-cre
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -4391,7 +4340,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/cripple-cre
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -5619,7 +5568,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/tivoli 1`] 
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -6804,7 +6753,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/union-lane 
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1553818639"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1553952376"
           rel="stylesheet"
           type="text/css"
           media="all"
