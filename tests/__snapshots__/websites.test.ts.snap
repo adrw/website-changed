@@ -8,7 +8,7 @@ Array [
   "Unit:",
   "Rent:",
   "Parking:",
-  "2019-05-01",
+  "2019-06-01",
   "Loft",
   "$1338",
   "1 space",
@@ -138,7 +138,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/abercrombie
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -1262,7 +1262,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/belmont-vil
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -1994,7 +1994,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/camelot 1`]
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -3089,7 +3089,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/cripple-cre
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -4303,7 +4303,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/cripple-cre
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -5531,7 +5531,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/tivoli 1`] 
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -6716,7 +6716,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/union-lane 
     <link rel="stylesheet"
           href="/packages/theme_stucco/themes/stucco/css/bootstrap.css"
     >
-    <link href="/application/files/cache/css/stucco/main.css?ts=1554153854"
+    <link href="/application/files/cache/css/stucco/main.css?ts=1554208903"
           rel="stylesheet"
           type="text/css"
           media="all"
@@ -7505,7 +7505,7 @@ exports[`websites http://www.blazeproperties.ca/index.php/properties/union-lane 
                     </ul>
                     <ul class="horz_top">
                       <li>
-                        2019-05-01
+                        2019-06-01
                       </li>
                       <li>
                         Loft
